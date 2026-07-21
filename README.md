@@ -27,12 +27,7 @@ Human Resource Management System using MySQL
     6.Demonstrate advanced SQL concepts used in real-world business environments.
     7.Optimize query performance using indexes.
 
-5) Technologies Used:
-    1.MySQL 8.0
-    2.MySQL Workbench
-    3.SQL
-
-6)Learning Outcomes:
+5)Learning Outcomes:
       Through this project, I gained hands-on experience in:
           1.Relational Database Design
           2.Data Modeling
@@ -44,5 +39,15 @@ Human Resource Management System using MySQL
           8.User-Defined Functions
           9.Indexing and Query Optimization
           10.Payroll and Workforce Analytics
-          Generates management reports.
-Improves data integrity and query performance.
+          11.Triggers
+
+6) Analysis:
+          1.Workforce Overview
+          2.Department-wise Employee Distribution
+          3.Employee Demographic Analysis
+          4.Salary & Compensation Analysis
+          5.Department-wise Salary Comparison
+          6.Hiring & Recruitment Trends
+          7.Employee Tenure Analysis
+          8.Advanced Employee Ranking & Salary Analysis
+          
