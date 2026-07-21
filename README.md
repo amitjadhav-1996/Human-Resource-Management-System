@@ -1,7 +1,7 @@
 Human Resource Management System using MySQL
 
 1)Overview:
-          The Employee Payroll Management System is a database-driven project developed using MySQL to manage employee information, department details, and payroll transactions in a structured and efficient manner. This project simulates a real-world Human Resources (HR) and Payroll Management System used by organizations to maintain employee records, process salaries, and generate workforce analytics.
+          The Human Resource Management System is a database-driven project developed using MySQL to manage employee information, department details, and payroll transactions in a structured and efficient manner. This project simulates a real-world Human Resources (HR) and Payroll Management System used by organizations to maintain employee records, process salaries, and generate workforce analytics.
           The project demonstrates strong SQL skills including database design, table relationships, data manipulation, query optimization, reporting, and automation through stored procedures, functions and views.
 
 2) Data Generation and Database Loading Process:
